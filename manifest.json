@@ -34,11 +34,7 @@
       "src": "./img/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
-    },
-    {
-      "src": ".img/mstile-150x150.png",
-      "sizes": "150x150",
-      "type": "image/png"
     }
+    
   ]
 }
