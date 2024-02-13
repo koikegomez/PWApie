@@ -4,7 +4,6 @@ const CACHE_NAME = 'v1_cache_pwa';
 //Ficheros a cachear en la aplicación
 var urlsToCache = [
     './',
-    './img/favicon.png',
     './img/android-chrome-192x192.png',
     './img/android-chrme-384x384.png',
     './img/apple-touch-icon.png',
@@ -12,7 +11,8 @@ var urlsToCache = [
     './img/OIG.jpg',
     './img/favicon16x16.png',
     './img/favicon-32x32.png',
-    './img/safari-pinned-tab.svg'];
+    './img/safari-pinned-tab.svg'
+];
 
 
 
